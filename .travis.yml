@@ -32,6 +32,7 @@ addons:
       - g++-4.8
       - libgoogle-glog-dev
       - libatlas-base-dev
+      - locate
 
 env:
   global:
