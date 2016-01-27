@@ -35,7 +35,7 @@ addons:
       - libatlas-base-dev
       - locate
       - libsuitesparse-dev
-      - libcxsparse3.1.2
+      - libgoogle-glog-dev
 
 env:
   global:
